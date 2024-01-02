@@ -1,5 +1,5 @@
 Para probar este proyecto es necesario Xampp y activar el apache y MySQL. Crea una base  de datos llamado "harmonor" e importa el archivo harmonor.sql
 
-admin
-test@gmail.com
-lasuiza26 
+admin account
+Tester
+et26
